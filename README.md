@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishakhvariar and I am a master's graduate in Computer Science from University College Cork.
-- 👀 I’m interested in ML and Data Analytics.
-- 🌱 I’m currently learning Angular.
+- 👀 Web Developer.
+- 🌱 I’m currently learning react js.
 - 📫 How to reach me: https://www.linkedin.com/in/vaishakhvariar/
 
 <!---
