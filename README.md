@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishakhvariar and I am a master's graduate in Computer Science from University College Cork.
 - 👀 Web Developer.
-- 🌱 I’m currently learning react js.
+- 🌱 I’m currently a Front-End Developer.
 - 📫 How to reach me: https://www.linkedin.com/in/vaishakhvariar/
 - Portfolio: https://portfolio-vaishakh-variar.web.app/
 
